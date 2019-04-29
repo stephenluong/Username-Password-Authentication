@@ -1,6 +1,6 @@
-# Username-Password-Authentication
-CPSC1012 Advanced Portfolio – Fall 2018 Term
-# Username & Password Verifier
+# CPSC1012 Advanced Portfolio – Fall 2018 Term
+
+# Username & Password Authentication
 
 This is username and password verifier written in ``C#`` with object oriented programming. It helps system administrators while creating user accounts.
 The userAccount Class contains:
